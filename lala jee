@@ -1,15 +1,3 @@
 #EXTM3U
 #EXTINF:0,DE: SKY SPORT 2 (2K)
-http://multistream.dodear.com:81/?serverpath=http://multistream2.dodear.com/pk-geosuper/index.m3u8
-#EXTINF:0,DE: BUNDESLIGA 1 (2K)
-http://premium-iptv.link:7899/Garland/Garland/49790
-#EXTINF:0,DE: DAZN 1 BAR (2K)
-http://premium-iptv.link:7899/Garland/Garland/49791
-#EXTINF:0,DE: DAZN 2 BAR HD (2K)
-http://premium-iptv.link:7899/Garland/Garland/49792
-#EXTINF:0,DE: EUROSPORT 1 (2K)
-http://premium-iptv.link:7899/Garland/Garland/49793
-#EXTINF:0,DE: EUROSPORT 2 (2K)
-http://premium-iptv.link:7899/Garland/Garland/49794
-#EXTINF:0,DE: DAZN 1 BAR HD+
-http://premium-iptv.link:7899/Garland/Garland/49795
+http://multistream.dodear.com:81/?serverpath=http://multistream2.dodear.com:80/pk-92/index.m3u8
